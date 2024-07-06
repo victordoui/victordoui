@@ -6,7 +6,7 @@
 
 ➜ Olá, meu nome é Victor Souza. Sou programador júnior com 2 anos de experiência no desenvolvimento de software. Tenho habilidades em diversas linguagens de programação e tecnologias:
    
-➜ Durante minha carreira, trabalhei em projetos que envolviam desde o desenvolvimento de aplicações web até a integração de sistemas e automação de processos. Sou apaixonado por aprender novas tecnologias e estou sempre em busca de desafios que possam expandir meus, conhecimentos e habilidades, Além das minhas competências técnicas, possuo um forte senso de trabalho em equipe e comunicação, o que me permite colaborar eficazmente com outros desenvolvedores e departamentos.
+➜ 💬  Durante minha carreira, trabalhei em projetos que envolviam desde o desenvolvimento de aplicações web até a integração de sistemas e automação de processos. Sou apaixonado por aprender novas tecnologias e estou sempre em busca de desafios que possam expandir meus, conhecimentos e habilidades, Além das minhas competências técnicas, possuo um forte senso de trabalho em equipe e comunicação, o que me permite colaborar eficazmente com outros desenvolvedores e departamentos.
 
 ## 🗨️ » **Contatos**
 <div> 
@@ -51,22 +51,3 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
-## Hi there 👋
-
-<!--
-**victordoui/victordoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

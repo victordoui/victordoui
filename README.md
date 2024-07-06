@@ -4,12 +4,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+Eu+sou+Victor Souza+%F0%9F%91%8B;A+Full-Stack+developer." />
 </p> 
 
-➜ Olá! Eu sou Victor Souza, um desenvolvedor apaixonado com 2 anos de experiência em programação. Tive a oportunidade de estagiar no BNDES, onde pude aplicar e aprimorar minhas habilidades em desenvolvimento de software.
+➜ Olá, meu nome é Victor Souza. Sou programador júnior com 2 anos de experiência no desenvolvimento de software. Tenho habilidades em diversas linguagens de programação e tecnologias, incluindo:
 
-➜ Experiência
-Estagiário de Desenvolvimento no BNDES (2 anos), Trabalhei em diversos projetos, desenvolvendo soluções eficientes e inovadoras.
-Colaborei com equipes multidisciplinares para criar aplicações de alto impacto.
-Adquiri experiência prática em diversas tecnologias e metodologias ágeis..
+➜ Durante minha carreira, trabalhei em projetos que envolviam desde o desenvolvimento de aplicações web até a integração de sistemas e automação de processos. Sou apaixonado por aprender novas tecnologias e estou sempre em busca de desafios que possam expandir meus conhecimentos e habilidades.
+
+➜ Além das minhas competências técnicas, possuo um forte senso de trabalho em equipe e comunicação, o que me permite colaborar eficazmente com outros desenvolvedores e departamentos.
+
+➜ Estou animado para continuar crescendo na área de desenvolvimento e contribuir para projetos inovadores e de alta qualidade.
 
 ## 🗨️ » **Contatos**
 <div> 

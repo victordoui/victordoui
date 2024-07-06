@@ -4,9 +4,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+Eu+sou+Victor Souza+%F0%9F%91%8B;A+Full-Stack+developer." />
 </p> 
 
-➜ Meu nome é Victor Souza da Silva, amante de tecnologia, sou desenvolvedor full is Henrique and I'm 18 years old, I've been a full stack developer for 4 years
+➜ Olá! Eu sou Victor Souza, um desenvolvedor apaixonado com 2 anos de experiência em programação. Tive a oportunidade de estagiar no BNDES, onde pude aplicar e aprimorar minhas habilidades em desenvolvimento de software.
 
-➜ I've done several projects as a developer, Discord Bots, Websites, Servers, Api's, and I've also done projects involved with robotics and CNC programming/machining.
+➜ Experiência
+Estagiário de Desenvolvimento no BNDES (2 anos), Trabalhei em diversos projetos, desenvolvendo soluções eficientes e inovadoras.
+Colaborei com equipes multidisciplinares para criar aplicações de alto impacto.
+Adquiri experiência prática em diversas tecnologias e metodologias ágeis..
 
 ## 🗨️ » **Contatos**
 <div> 

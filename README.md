@@ -6,9 +6,9 @@
 
 ➜ Olá, meu nome é Victor Souza. Sou programador júnior com 2 anos de experiência no desenvolvimento de software. Tenho habilidades em diversas linguagens de programação e tecnologias:
    
-➜ Durante minha carreira, trabalhei em projetos que envolviam desde o desenvolvimento de aplicações web até a integração de sistemas e automação de processos. Sou apaixonado por aprender novas tecnologias e estou sempre em busca de desafios que possam expandir meus, conhecimentos e habilidades. 
+ ➜     Durante minha carreira, trabalhei em projetos que envolviam desde o desenvolvimento de aplicações web até a integração de sistemas e automação de processos. Sou apaixonado por aprender novas tecnologias e estou sempre em busca de desafios que possam expandir meus, conhecimentos e habilidades. 
    
-   Além das minhas competências técnicas, possuo um forte senso de trabalho em equipe e comunicação, o que me permite colaborar eficazmente com outros desenvolvedores e departamentos.
+ ➜     Além das minhas competências técnicas, possuo um forte senso de trabalho em equipe e comunicação, o que me permite colaborar eficazmente com outros desenvolvedores e departamentos.
 
 ## 🗨️ » **Contatos**
 <div> 
